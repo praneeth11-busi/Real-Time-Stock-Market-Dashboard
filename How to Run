@@ -1,0 +1,11 @@
+How to Run the Application
+Save the code to a file named stock_dashboard.py
+
+Install the required packages:
+
+text
+pip install streamlit pandas plotly requests
+Run the application:
+
+text
+streamlit run stock_dashboard.py
