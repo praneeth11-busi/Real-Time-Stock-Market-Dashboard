@@ -1,0 +1,10 @@
+Features of the Dashboard
+Real-time Stock Data: Fetches live data from Alpha Vantage API
+Interactive Charts:
+  Candlestick price charts
+  Volume indicators
+  Technical indicators (SMA, RSI, Bollinger Bands)
+Key Metrics: Current price, change, volume, and RSI
+Company Information: Overview, financial metrics, and performance data
+Auto-Refresh: Option to automatically refresh data at customizable intervals
+Responsive Design: Works on desktop and mobile devices
